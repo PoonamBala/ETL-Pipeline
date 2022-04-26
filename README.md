@@ -6,5 +6,9 @@ Tools req:
 PostgreSQL Setup
 SQLServer Setup
 
+Our sample Sales related database:
+DB1- AccountKey	Account	Account Type	Sign	Report Sign	HeaderAssignment	Subheader	SubheaderDetail	Subheader2	Subheader Sort
+DB2- SalesTerritoryKey	SalesTerritoryAlternateKey	SalesTerritoryRegion	SalesTerritoryCountry	SalesTerritoryGroup
+
 By:
 Poonam,Janani,Allen,Aakash
